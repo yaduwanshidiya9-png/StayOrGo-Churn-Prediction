@@ -62,3 +62,5 @@ This project focuses on predicting whether a customer will leave a company (chur
 Clone the repository:
 ```bash
 git clone https://github.com/yaduwanshidiya9-png/StayOrGo-Churn-Prediction.git
+
+**Developed by [Diya Yaduwanshi](https://github.com/yaduwanshidiya9-png)** 💻
