@@ -63,4 +63,6 @@ Clone the repository:
 ```bash
 git clone https://github.com/yaduwanshidiya9-png/StayOrGo-Churn-Prediction.git
 
+---
+
 **Developed by [Diya Yaduwanshi](https://github.com/yaduwanshidiya9-png)** 💻
