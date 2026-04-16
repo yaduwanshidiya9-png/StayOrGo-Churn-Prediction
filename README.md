@@ -1,18 +1,18 @@
-# 📊 Customer Churn Prediction
+# Customer Churn Prediction
 
-## 🚀 Project Overview
+## Project Overview
 This project focuses on predicting whether a customer will leave a company (churn) or not using Machine Learning techniques. It helps businesses take proactive actions to retain customers and reduce loss.
 
 ---
 
-## 🎯 Objective
+## Objective
 - Analyze customer data
 - Identify patterns behind customer churn
 - Build a predictive model to classify churn vs non-churn customers
 
 ---
 
-## 🧠 Technologies Used
+## Technologies Used
 - Python
 - NumPy
 - Pandas
@@ -23,7 +23,7 @@ This project focuses on predicting whether a customer will leave a company (chur
 
 ---
 
-## 📂 Project Workflow
+## Project Workflow
 1. Data Collection
 2. Data Cleaning & Preprocessing
 3. Exploratory Data Analysis (EDA)
@@ -33,7 +33,7 @@ This project focuses on predicting whether a customer will leave a company (chur
 
 ---
 
-## 🤖 Machine Learning Models Used
+## Machine Learning Models Used
 - Logistic Regression
 - K-Nearest Neighbors (KNN)
 - Naive Bayes
@@ -42,7 +42,7 @@ This project focuses on predicting whether a customer will leave a company (chur
 
 ---
 
-## 📈 Evaluation Metrics
+## Evaluation Metrics
 - Accuracy
 - Precision
 - Recall
@@ -50,14 +50,14 @@ This project focuses on predicting whether a customer will leave a company (chur
 
 ---
 
-## 📊 Key Insights
+## Key Insights
 - Identified important features affecting customer churn
 - Compared multiple ML models for best performance
 - Improved model accuracy using feature scaling
 
 ---
 
-## ⚙️ Installation
+## Installation
 
 Clone the repository:
 ```bash
